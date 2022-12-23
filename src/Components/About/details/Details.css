@@ -1,0 +1,44 @@
+.details{
+    width: 50%;
+    display: flex;
+}
+.detailsObj{
+    display: flex;
+    position: relative;
+    /* height: 8vh; */
+    margin: 5px 18px;
+    width: 75%;
+    height: 50px;
+    justify-content: flex-start;
+    align-items: center;
+}
+.detailsObj p{
+    margin: 0 0 0 9px ;
+}
+.detailsObj::after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    background: #3e3a3a;
+    height: 2px;
+}
+@media screen and (max-width: 1440px) {
+    .detailsObj{
+        width: 100%;
+        margin: 5px 8px;
+    }
+}
+@media screen and (max-width: 768px){
+    .details{
+        width: 100%;
+        flex-wrap: wrap;
+    }
+    .detailsObj{
+        width: 100%;
+    }
+    .detailsObj h3,p{
+        font-size: 15px;
+    }
+    
+}

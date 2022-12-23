@@ -1,0 +1,26 @@
+.projectCon .bodyComponent{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+.projectCon .projectHeading{
+    width: 100% ;
+    margin: 10vh 0 0 0 ;
+}
+.container{
+    margin-top: 5vh;
+}
+@media screen and (max-width: 768px){
+    
+    .projectCon .projectHeading{
+        margin: 2vh 0 0 0;
+    }
+    /* .projectCon .projectComponent,.projectComponent{
+        padding: 5% 4% 0%;
+    } */
+    .bodyComponent{
+        margin-top: 17%;
+        margin-bottom: 17%;
+    }
+}
