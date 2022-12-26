@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/zer0ne/static/css/main.96299cbd.css",
-    "main.js": "/zer0ne/static/js/main.3467e4ab.js",
+    "main.css": "/zer0ne/static/css/main.2a997a53.css",
+    "main.js": "/zer0ne/static/js/main.e93db3b8.js",
     "static/media/clock": "/zer0ne/static/media/clock.aab6a8220885cf77d399",
     "static/media/calculator": "/zer0ne/static/media/calculator.01d7d493413bd6d88504",
     "static/media/notepad": "/zer0ne/static/media/notepad.4feed6f60df6bc9bb050",
@@ -22,11 +22,11 @@
     "static/media/text2speech": "/zer0ne/static/media/text2speech.2d9d246e0c1f3dad05cf",
     "static/media/primeChecker": "/zer0ne/static/media/primeChecker.5243900a0edefbbb912c",
     "index.html": "/zer0ne/index.html",
-    "main.96299cbd.css.map": "/zer0ne/static/css/main.96299cbd.css.map",
-    "main.3467e4ab.js.map": "/zer0ne/static/js/main.3467e4ab.js.map"
+    "main.2a997a53.css.map": "/zer0ne/static/css/main.2a997a53.css.map",
+    "main.e93db3b8.js.map": "/zer0ne/static/js/main.e93db3b8.js.map"
   },
   "entrypoints": [
-    "static/css/main.96299cbd.css",
-    "static/js/main.3467e4ab.js"
+    "static/css/main.2a997a53.css",
+    "static/js/main.e93db3b8.js"
   ]
 }
