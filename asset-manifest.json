@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/zer0ne/static/css/main.bb98d9f1.css",
-    "main.js": "/zer0ne/static/js/main.1e71e549.js",
+    "main.css": "/zer0ne/static/css/main.7dc1b0b7.css",
+    "main.js": "/zer0ne/static/js/main.1a98c6fd.js",
     "static/media/clock": "/zer0ne/static/media/clock.aab6a8220885cf77d399",
     "static/media/calculator": "/zer0ne/static/media/calculator.01d7d493413bd6d88504",
     "static/media/notepad": "/zer0ne/static/media/notepad.4feed6f60df6bc9bb050",
     "static/media/avatar.png": "/zer0ne/static/media/avatar.97135f2b9aedd4777a48.png",
+    "static/media/jsCheet": "/zer0ne/static/media/jsCheet.474416fc0d91f036f355",
     "static/media/tic-tac-toe": "/zer0ne/static/media/tic-tac-toe.b890eda33d1f6b1b769d",
     "static/media/fa-solid-900.ttf": "/zer0ne/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
     "static/media/wordConter": "/zer0ne/static/media/wordConter.281bf714cebc8420359c",
@@ -31,11 +32,11 @@
     "static/media/primeChecker": "/zer0ne/static/media/primeChecker.5243900a0edefbbb912c",
     "static/media/fa-v4compatibility.woff2": "/zer0ne/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/zer0ne/index.html",
-    "main.bb98d9f1.css.map": "/zer0ne/static/css/main.bb98d9f1.css.map",
-    "main.1e71e549.js.map": "/zer0ne/static/js/main.1e71e549.js.map"
+    "main.7dc1b0b7.css.map": "/zer0ne/static/css/main.7dc1b0b7.css.map",
+    "main.1a98c6fd.js.map": "/zer0ne/static/js/main.1a98c6fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb98d9f1.css",
-    "static/js/main.1e71e549.js"
+    "static/css/main.7dc1b0b7.css",
+    "static/js/main.1a98c6fd.js"
   ]
 }
