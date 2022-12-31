@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zer0ne/static/css/main.2574b3c6.css",
-    "main.js": "/zer0ne/static/js/main.c6c0648b.js",
+    "main.js": "/zer0ne/static/js/main.69630910.js",
     "static/media/clock": "/zer0ne/static/media/clock.aab6a8220885cf77d399",
     "static/media/calculator": "/zer0ne/static/media/calculator.01d7d493413bd6d88504",
     "static/media/notepad": "/zer0ne/static/media/notepad.4feed6f60df6bc9bb050",
@@ -34,10 +34,10 @@
     "static/media/fa-v4compatibility.woff2": "/zer0ne/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/zer0ne/index.html",
     "main.2574b3c6.css.map": "/zer0ne/static/css/main.2574b3c6.css.map",
-    "main.c6c0648b.js.map": "/zer0ne/static/js/main.c6c0648b.js.map"
+    "main.69630910.js.map": "/zer0ne/static/js/main.69630910.js.map"
   },
   "entrypoints": [
     "static/css/main.2574b3c6.css",
-    "static/js/main.c6c0648b.js"
+    "static/js/main.69630910.js"
   ]
 }
