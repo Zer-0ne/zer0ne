@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/zer0ne/static/css/main.cd62caa1.css",
-    "main.js": "/zer0ne/static/js/main.eb0a04ca.js",
+    "main.js": "/zer0ne/static/js/main.6ecab71c.js",
     "static/media/clock": "/zer0ne/static/media/clock.aab6a8220885cf77d399",
     "static/media/calculator": "/zer0ne/static/media/calculator.01d7d493413bd6d88504",
     "static/media/notepad": "/zer0ne/static/media/notepad.4feed6f60df6bc9bb050",
@@ -68,16 +68,17 @@
     "static/media/text2speech": "/zer0ne/static/media/text2speech.2d9d246e0c1f3dad05cf",
     "static/media/JavaScript-2.png": "/zer0ne/static/media/JavaScript-2.d8364beec5cbde53403c.png",
     "static/media/Java-15.png": "/zer0ne/static/media/Java-15.a909721f69e20ff52e98.png",
+    "static/media/Calculator.png": "/zer0ne/static/media/Calculator.52512438b6b4ed63ad2c.png",
     "static/media/Python-3.png": "/zer0ne/static/media/Python-3.d4cf90558270d5700a28.png",
     "static/media/fa-v4compatibility.ttf": "/zer0ne/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
     "static/media/primeChecker": "/zer0ne/static/media/primeChecker.5243900a0edefbbb912c",
     "static/media/fa-v4compatibility.woff2": "/zer0ne/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
     "index.html": "/zer0ne/index.html",
     "main.cd62caa1.css.map": "/zer0ne/static/css/main.cd62caa1.css.map",
-    "main.eb0a04ca.js.map": "/zer0ne/static/js/main.eb0a04ca.js.map"
+    "main.6ecab71c.js.map": "/zer0ne/static/js/main.6ecab71c.js.map"
   },
   "entrypoints": [
     "static/css/main.cd62caa1.css",
-    "static/js/main.eb0a04ca.js"
+    "static/js/main.6ecab71c.js"
   ]
 }
